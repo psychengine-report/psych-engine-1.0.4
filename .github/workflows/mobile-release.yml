@@ -6,8 +6,8 @@ permissions:
   discussions: write
 
 env:
-  PROJECT_NAME: PsychEngine
-  REPO_PATH: kittycathy233/FNF-PsychEngine-Mobile-1.0.4
+  PROJECT_NAME: PsychEngine1.0.4
+  REPO_PATH: PsychEngine-report/PsychEngine-1.0.4
 
 jobs:
   get-commit-hash:

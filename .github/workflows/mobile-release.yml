@@ -7,7 +7,7 @@ permissions:
 
 env:
   PROJECT_NAME: PsychEngine1.0.4
-  REPO_PATH: PsychEngine-report/PsychEngine-1.0.4
+  REPO_PATH: PsychEngine-report/Psych-Engine-1.0.4
 
 jobs:
   get-commit-hash:
